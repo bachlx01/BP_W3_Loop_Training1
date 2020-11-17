@@ -68,7 +68,7 @@ function excercise6() {
     let count = 0;
     for (i = 0; count < 31; i++) {
         if (i % 7 == 0) {
-            total = +i;
+            total +=i;
             count++;
         }
     }
