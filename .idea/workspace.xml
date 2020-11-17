@@ -24,7 +24,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../[Bài tập] Luyện tập vòng lặp 02" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -38,7 +38,7 @@
       <updated>1605515920676</updated>
       <workItem from="1605515921726" duration="8339000" />
       <workItem from="1605576218631" duration="28000" />
-      <workItem from="1605579484465" duration="3025000" />
+      <workItem from="1605579484465" duration="3821000" />
     </task>
     <servers />
   </component>
@@ -46,10 +46,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="807" y="167" key="FileChooserDialogImpl" timestamp="1605576244418">
+    <state x="807" y="167" key="FileChooserDialogImpl" timestamp="1605584328264">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="807" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605576244418" />
+    <state x="807" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1605584328264" />
     <state x="682" y="190" key="run.anything.popup" timestamp="1605518724762">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
